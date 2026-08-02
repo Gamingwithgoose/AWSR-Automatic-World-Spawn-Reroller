@@ -1,0 +1,3 @@
+This source pack includes Mono.Cecil.dll only as a compile-time reference.
+Mono.Cecil is distributed under the MIT license. The DLL is sourced from the
+BepInEx 5.4.23.5 Windows x64 package and is not included in AWSR's release ZIP.
