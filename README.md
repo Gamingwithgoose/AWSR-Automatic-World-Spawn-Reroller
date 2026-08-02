@@ -157,4 +157,5 @@ AWSR was designed to preserve the game's original overworld spawn rolls while re
 
 ## Disclaimer
 
+AWSR’s original source code is licensed under the MIT License. Monsterpatch, BepInEx, Mono.Cecil, and all other third-party software remain the property of their respective owners and are not covered by this license.
 Automatic World Spawn Reroll is an unofficial community modification and is not affiliated with or endorsed by the developers or publishers of *Monsterpatch*.
